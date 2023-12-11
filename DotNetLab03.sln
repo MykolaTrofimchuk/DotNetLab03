@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EncryptionForm", "EncryptionForm\EncryptionForm.csproj", "{1BAD3E68-A91E-4CFD-AFDE-48DDA4CF1EA9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskManagerForm", "TaskManagerForm\TaskManagerForm.csproj", "{609080CD-2089-4A3F-8ACC-E1E99402A9F7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1BAD3E68-A91E-4CFD-AFDE-48DDA4CF1EA9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1BAD3E68-A91E-4CFD-AFDE-48DDA4CF1EA9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1BAD3E68-A91E-4CFD-AFDE-48DDA4CF1EA9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1BAD3E68-A91E-4CFD-AFDE-48DDA4CF1EA9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{609080CD-2089-4A3F-8ACC-E1E99402A9F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{609080CD-2089-4A3F-8ACC-E1E99402A9F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{609080CD-2089-4A3F-8ACC-E1E99402A9F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{609080CD-2089-4A3F-8ACC-E1E99402A9F7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1DDF0FEE-EDE6-46D0-B6B8-92D8D24BAC1C}
+	EndGlobalSection
+EndGlobal
